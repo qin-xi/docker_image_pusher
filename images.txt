@@ -3,5 +3,6 @@ nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 nvidia/cuda:12.1.0-devel-ubuntu18.04
+pytorch/pytorch:2.0.0-cuda11.7-cudnn8-runtime
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
